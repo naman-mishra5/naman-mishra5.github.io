@@ -11,7 +11,7 @@ menuIcon.onclick = () => {
 /* typed js */
 
 const typed = new Typed('.multiple-text', {
-  strings: ['Writer', 'Researcher', 'Seeker'],
+  strings: ['Writer', 'Researcher', 'Traveller'],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 300,
