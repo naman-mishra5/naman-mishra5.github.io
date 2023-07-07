@@ -301,9 +301,14 @@ span {
 
 .publication .publication-box{
     padding: 3rem 3rem 3rem 5rem;
-    height: 70vh;
+    margin-bottom: 2rem;
     border-radius: 2rem;
     box-shadow: 0 0 1rem var(--bg-color);
+}
+
+.publication .publication-box h3{
+  font-size: 2.3rem;
+  margin-bottom: 1rem;
 }
 
 .publication .publication-box ul{
