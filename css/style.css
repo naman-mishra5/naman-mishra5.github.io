@@ -18,12 +18,22 @@
   --text-color: #fff;
   --main-color: #0ef;
 }*/
+/*
 :root {
-  --bg-color: #fffbf2;        /* A soft, warm beige background */
-  --second-bg-color: #ffe8cc;  /* A light, warm peachy color */
-  --text-color: #333333;       /* Dark charcoal text color for contrast */
-  --main-color: #ff6347;       /* Bright tomato red for the main accent color */
+  --bg-color: #fffbf2;        
+  --second-bg-color: #ffe8cc; 
+  --text-color: #333333;      
+  --main-color: #ff6347;      
+}*/
+:root {
+  --bg-color: #f8f9f5;           /* Soft ivory */
+  --second-bg-color: #e3e8e1;    /* Light sage green */
+  --text-color: #2f3e2e;         /* Deep olive gray */
+  --main-color: #6c8b5c;         /* Muted olive green */
 }
+
+
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
